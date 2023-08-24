@@ -1,3 +1,5 @@
+
+![bugimg](https://github.com/AlavishPasunuri06/BugTrackingSystemUsingJava/assets/142849206/19de804f-8428-4c95-8c2d-031a9b2ab336)
 # Bug Tracking System Using Java
 
 Welcome to the Bug Tracking System project! This Java-based application is designed to help streamline the process of tracking and managing software bugs, issues, and enhancements in a systematic and organized manner. Whether you're working on a small project or a large-scale software development effort, this bug tracking system aims to enhance collaboration, transparency, and efficiency in your development workflow.
