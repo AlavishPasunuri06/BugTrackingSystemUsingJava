@@ -1,0 +1,86 @@
+.fullwidthbar{
+    padding: 5px;
+    margin: 3px;
+    background: #eee;
+    color: #fff;
+    border-radius: 3px;
+    border: #ddd solid 1px;
+}
+
+.fullwidthbar a{
+    text-decoration: none;
+}
+
+.main{
+    margin: 5px;
+    padding: 5px;
+}
+
+.status{
+    font-size: 10pt;
+    text-align: center;
+    width: 100%;
+    color: #000;
+}
+
+.titlerow{
+    background: #000;
+    color: #fff;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.bugsummaryrow td{
+    border-bottom: #ccc solid 1px;
+}
+
+.bugsummaryrow a{
+	color: #008;
+}
+
+.bugsummaryrow:hover{
+    background: #eef;
+}
+
+.bugsummarydesctd{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    min-width: 100px;
+	max-width: 200px;
+}
+
+.summarydesc{
+    color: #888;
+}
+
+.buglight{
+    background: #ffd;
+}
+
+.bugdark{
+    background: #dff;
+}
+
+.bugdescription{
+	font-family: monospace;
+    font-size: 1em;
+    white-space:pre-wrap;
+}
+
+.usergravatar{
+    border: 2px #888 solid;
+    border-radius: 3px;
+}
+
+.navdot{
+    color: #ea4;
+    -webkit-text-stroke: #852 1px;
+}
+
+.fieldname{
+	text-align: right;
+	width: 128px;
+	font-weight: bold;
+	padding-right: 15px;
+}
